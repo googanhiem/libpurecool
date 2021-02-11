@@ -1,3 +1,12 @@
+Version 0.6.4
+~~~~~~~~~~~~~
+
+:Date:
+    2020/11/29
+
+    - Fix changes to Dyson API to prevent script crash (googanhiem)
+    - Small fixes to the docs (PhilippvK)
+
 Version 0.6.3
 ~~~~~~~~~~~~~
 
